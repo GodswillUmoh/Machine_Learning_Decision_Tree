@@ -1,4 +1,5 @@
 # Machine_Learning: Decision Tree Regression
+_Note: Decision Tree regression is not best for single independent variable. It is more adapted to high dimensional variable
 
 ## Why feature Scaling is not applied in Decision Tree Regression
 _Feature scaling is not applied in decision trees because decision trees are scale-invariant. Here's why:_
