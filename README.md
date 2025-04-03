@@ -60,6 +60,6 @@ plt.xlabel('Position level')
 plt.ylabel('Salary')
 plt.show()
 ```
-
+...
 + [To view Code in Terminal, Click Here](https://colab.research.google.com/drive/1ppQAms1Pas2OG2_whiKTmVmDuzNWJnNq#scrollTo=awOyDi-RrJMH)
   
